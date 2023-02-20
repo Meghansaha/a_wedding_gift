@@ -9,3 +9,5 @@ blog post on [The Tidy Trekker](https://www.thetidytrekker.com).
 
 I made a circular map cutout in ggplot and had it printed for my best
 friend. The code I used to do that is [here](scripts/processing.R).
+
+![](images/finishedmap.png)
